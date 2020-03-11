@@ -1,0 +1,27 @@
+python experiment1.py 1 1 1 1 0 0 10 > experiment1/10.txt
+python experiment1.py 1 1 1 2 0 0 20 > experiment1/20.txt
+python experiment1.py 1 1 1 3 0 0 30 > experiment1/30.txt
+python experiment1.py 1 1 1 4 0 0 40 > experiment1/40.txt
+
+
+python experiment1.py 1 1 0 1 0 0 50 > experiment1/50.txt
+python experiment1.py 1 1 0 3 0 0 60 > experiment1/60.txt
+
+python experiment1.py 1 0 1 1 0 0 70 > experiment1/70.txt
+python experiment1.py 1 0 1 3 0 0 80 > experiment1/80.txt
+
+python experiment1.py 0 1 1 1 0 0 90 > experiment1/90.txt
+python experiment1.py 0 1 1 3 0 0 100 > experiment1/100.txt
+
+python experiment1.py 1 0 0 1 0 0 110 > experiment1/110.txt
+python experiment1.py 1 0 0 3 0 0 120 > experiment1/120.txt
+
+python experiment1.py 0 1 0 1 0 0 130 > experiment1/130.txt
+python experiment1.py 0 1 0 3 0 0 140 > experiment1/140.txt
+
+python experiment1.py 0 0 1 1 0 0 150 > experiment1/150.txt
+python experiment1.py 0 0 1 3 0 0 160 > experiment1/160.txt
+
+python experiment1.py 0 0 0 1 0 0 170 > experiment1/170.txt
+python experiment1.py 0 0 0 3 0 0 180 > experiment1/180.txt
+

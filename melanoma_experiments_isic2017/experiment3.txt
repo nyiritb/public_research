@@ -1,0 +1,75 @@
+python experiment3.py 1 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights1.hdf5 1 1 > experiment3/1.txt
+python experiment3.py 1 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights1.hdf5 2 1 > experiment3/2.txt
+python experiment3.py 1 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights1.hdf5 4 1 > experiment3/3.txt
+python experiment3.py 1 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights1.hdf5 8 1 > experiment3/4.txt
+python experiment3.py 1 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights1.hdf5 16 1 > experiment3/5.txt
+
+python experiment3.py 1 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights2.hdf5 1 2 > experiment3/11.txt
+python experiment3.py 1 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights2.hdf5 2 2 > experiment3/12.txt
+python experiment3.py 1 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights2.hdf5 4 2 > experiment3/13.txt
+python experiment3.py 1 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights2.hdf5 8 2 > experiment3/14.txt
+python experiment3.py 1 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights2.hdf5 16 2 > experiment3/15.txt
+
+python experiment3.py 1 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights3.hdf5 1 3 > experiment3/21.txt
+python experiment3.py 1 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights3.hdf5 2 3 > experiment3/22.txt
+python experiment3.py 1 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights3.hdf5 4 3 > experiment3/23.txt
+python experiment3.py 1 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights3.hdf5 8 3 > experiment3/24.txt
+python experiment3.py 1 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights3.hdf5 16 3 > experiment3/25.txt
+
+python experiment3.py 1 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights4.hdf5 1 4 > experiment3/31.txt
+python experiment3.py 1 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights4.hdf5 2 4 > experiment3/32.txt
+python experiment3.py 1 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights4.hdf5 4 4 > experiment3/33.txt
+python experiment3.py 1 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights4.hdf5 8 4 > experiment3/34.txt
+python experiment3.py 1 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights4.hdf5 16 4 > experiment3/35.txt
+
+python experiment3.py 1 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights5.hdf5 1 5 > experiment3/41.txt
+python experiment3.py 1 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights5.hdf5 2 5 > experiment3/42.txt
+python experiment3.py 1 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights5.hdf5 4 5 > experiment3/43.txt
+python experiment3.py 1 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights5.hdf5 8 5 > experiment3/44.txt
+python experiment3.py 1 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights5.hdf5 16 5 > experiment3/45.txt
+
+python experiment3.py 1 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights6.hdf5 1 6 > experiment3/51.txt
+python experiment3.py 1 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights6.hdf5 2 6 > experiment3/52.txt
+python experiment3.py 1 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights6.hdf5 4 6 > experiment3/53.txt
+python experiment3.py 1 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights6.hdf5 8 6 > experiment3/54.txt
+python experiment3.py 1 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights6.hdf5 16 6 > experiment3/55.txt
+
+
+
+python experiment3.py 0 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights13.hdf5 1 13 > experiment3/61.txt
+python experiment3.py 0 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights13.hdf5 2 13 > experiment3/62.txt
+python experiment3.py 0 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights13.hdf5 4 13 > experiment3/63.txt
+python experiment3.py 0 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights13.hdf5 8 13 > experiment3/64.txt
+python experiment3.py 0 128 new_model_1_128x128_pretrained=True.h5 experiment2/weights13.hdf5 16 13 > experiment3/65.txt
+
+python experiment3.py 0 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights14.hdf5 1 14 > experiment3/71.txt
+python experiment3.py 0 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights14.hdf5 2 14 > experiment3/72.txt
+python experiment3.py 0 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights14.hdf5 4 14 > experiment3/73.txt
+python experiment3.py 0 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights14.hdf5 8 14 > experiment3/74.txt
+python experiment3.py 0 128 new_model_2_128x128_pretrained=True.h5 experiment2/weights14.hdf5 16 14 > experiment3/75.txt
+
+python experiment3.py 0 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights15.hdf5 1 15 > experiment3/81.txt
+python experiment3.py 0 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights15.hdf5 2 15 > experiment3/82.txt
+python experiment3.py 0 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights15.hdf5 4 15 > experiment3/83.txt
+python experiment3.py 0 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights15.hdf5 8 15 > experiment3/84.txt
+python experiment3.py 0 160 new_model_3_160x160_pretrained=True.h5 experiment2/weights15.hdf5 16 15 > experiment3/85.txt
+
+python experiment3.py 0 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights16.hdf5 1 16 > experiment3/91.txt
+python experiment3.py 0 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights16.hdf5 2 16 > experiment3/92.txt
+python experiment3.py 0 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights16.hdf5 4 16 > experiment3/93.txt
+python experiment3.py 0 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights16.hdf5 8 16 > experiment3/94.txt
+python experiment3.py 0 224 new_model_4_224x224_pretrained=True.h5 experiment2/weights16.hdf5 16 16 > experiment3/95.txt
+
+python experiment3.py 0 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights17.hdf5 1 17 > experiment3/101.txt
+python experiment3.py 0 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights17.hdf5 2 17 > experiment3/102.txt
+python experiment3.py 0 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights17.hdf5 4 17 > experiment3/103.txt
+python experiment3.py 0 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights17.hdf5 8 17 > experiment3/104.txt
+python experiment3.py 0 224 new_model_5_224x224_pretrained=True.h5 experiment2/weights17.hdf5 16 17 > experiment3/105.txt
+
+python experiment3.py 0 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights18.hdf5 1 18 > experiment3/111.txt
+python experiment3.py 0 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights18.hdf5 2 18 > experiment3/112.txt
+python experiment3.py 0 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights18.hdf5 4 18 > experiment3/113.txt
+python experiment3.py 0 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights18.hdf5 8 18 > experiment3/114.txt
+python experiment3.py 0 224 new_model_6_224x224_pretrained=True.h5 experiment2/weights18.hdf5 16 18 > experiment3/115.txt
+
+
